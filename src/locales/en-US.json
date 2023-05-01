@@ -1,0 +1,20 @@
+{
+  "title": "Car Sharing Comparison",
+  "locale": {
+    "en-US": "🇬🇧 English",
+    "et": "🇪🇪 Estonian"
+  },
+  "planner": {
+    "title": "Planner",
+    "subtitle": "Use sliders or enter manually",
+    "input": {
+      "day": "{count, plural, one {DAY} other {DAYS}}",
+      "hour": "{count, plural, one {HOUR} other {HRS}}",
+      "minute": "{count, plural, one {MIN} other {MINS}}"
+    }
+  },
+  "cars": {
+    "title": "Cars",
+    "subtitle": "Prices don't match? <a href='https://github.com/aanndryyyy/car-sharing-comparison/blob/main/README.md#data-scraping' target='_blank' rel='noreferrer' class='underline'>Contribute</a>"
+  }
+}

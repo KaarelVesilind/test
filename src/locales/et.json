@@ -1,0 +1,20 @@
+{
+  "title": "Rendiautode võrdlus",
+  "locale": {
+    "en-US": "🇬🇧 English",
+    "et": "🇪🇪 Eesti"
+  },
+  "planner": {
+    "title": "Planeerija",
+    "subtitle": "Kasuta nuppe või sisesta käsitsi",
+    "input": {
+      "day": "{count, plural, one {PÄEV} other {PÄEVA}}",
+      "hour": "{count, plural, one {TUND} other {TUNDI}}",
+      "minute": "{count, plural, one {MIN} other {MIN}}"
+    }
+  },
+  "cars": {
+    "title": "Autod",
+    "subtitle": "Hinnad ei klapi? <a href='https://github.com/aanndryyyy/car-sharing-comparison/blob/main/README.md#data-scraping' target='_blank' rel='noreferrer' class='underline'>Paranda</a>"
+  }
+}
